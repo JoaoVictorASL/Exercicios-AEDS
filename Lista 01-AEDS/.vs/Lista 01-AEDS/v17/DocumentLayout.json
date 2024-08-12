@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{901063D2-CF86-48B9-8182-4131F79AEDC6}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\exercicios-aeds\\lista 01-aeds\\exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{901063D2-CF86-48B9-8182-4131F79AEDC6}|Exerc\u00EDcio 04\\Exerc\u00EDcio 04.csproj|solutionrelative:exerc\u00EDcio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17D6328-D300-49EE-B436-A63F5891D1E2}|Exerc\u00EDcio 03\\Exerc\u00EDcio 03.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\exercicios-aeds\\lista 01-aeds\\exerc\u00EDcio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17D6328-D300-49EE-B436-A63F5891D1E2}|Exerc\u00EDcio 03\\Exerc\u00EDcio 03.csproj|solutionrelative:exerc\u00EDcio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EAAEAD-DE30-48D9-97CB-5153B09F5CF9}|Exerc\u00EDcio 02\\Exerc\u00EDcio 02.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\exercicios-aeds\\lista 01-aeds\\exerc\u00EDcio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EAAEAD-DE30-48D9-97CB-5153B09F5CF9}|Exerc\u00EDcio 02\\Exerc\u00EDcio 02.csproj|solutionrelative:exerc\u00EDcio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FDD97A6-F04E-499B-AD74-ACE12D4F2320}|Exerc\u00EDcio 01\\Exerc\u00EDcio 01.csproj|c:\\users\\micro\\desktop\\puc minas\\reposit\u00F3rios\\exercicios-aeds\\lista 01-aeds\\exerc\u00EDcio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FDD97A6-F04E-499B-AD74-ACE12D4F2320}|Exerc\u00EDcio 01\\Exerc\u00EDcio 01.csproj|solutionrelative:exerc\u00EDcio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 04\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\Exerc\u00EDcio 04\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 04\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T00:43:10.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\Exerc\u00EDcio 03\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 03\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\Exerc\u00EDcio 03\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 03\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAgwH8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T23:52:37.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\Exerc\u00EDcio 02\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 02\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\Exerc\u00EDcio 02\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 02\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T23:29:07.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\Exerc\u00EDcio 01\\Program.cs",
+              "RelativeDocumentMoniker": "Exerc\u00EDcio 01\\Program.cs",
+              "ToolTip": "C:\\Users\\Micro\\Desktop\\Puc Minas\\Reposit\u00F3rios\\Exercicios-AEDS\\Lista 01-AEDS\\Exerc\u00EDcio 01\\Program.cs",
+              "RelativeToolTip": "Exerc\u00EDcio 01\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:49:44.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
